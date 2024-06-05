@@ -1,2 +1,14 @@
+# folders
 /env/*
+/runs/*
 
+# video files
+*.mp4
+*.avi
+
+# weight files
+*.onnx
+*.pt
+
+#misc
+*.zip
